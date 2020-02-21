@@ -13,7 +13,7 @@ class DailyEnergyBudget:
             "timestamp": time.time(),
             "value": value,
             "action": action,
-            "budgetAfter": self.budget,
+            "budget_after": self.budget,
         }
         self.history.append(spent)
 
