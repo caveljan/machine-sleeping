@@ -29,7 +29,7 @@ Naturally, since we do not grasp the fundamental nature of learning, memory, int
 [1] 2019, Hans-Peter Landolt et al., Sleep-Wake Neurobiology and Pharmacology, Springer, p. 6;
 
 
-## Prolegomenon to a Counting of Sheeps
+## Prolegomenon to a Counting of Sheep
 
 What is the phenomenon that a human goes through roughly every 24 hours? He/she breathes, and plays, and works, then they feel tired, therefore they lie in a safe environment on a horizontal surface, close their eyes, fight for a bit the urge of thinking randomly, then suddenly but without any ability to tell when, the human loses the control of the body, disappears, becomes an object, and generally continues to be in that state for the next 7-8 hours, when just as suddenly, they start to come back into control, they appear, become a subject.
 
