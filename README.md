@@ -24,7 +24,7 @@
 
 What gives pause about sleep is that more than one find "the strongest support for a primary function of sleep goes to learning and memory". [1]
 
-Naturally, since we do not grasp the fundamental nature of learning, memory, intelligence, [wisdom](https://github.com/caveljan/artificial-wisdom), or sleep, we ought to try to (re)produce these mechanisms in a controlled entity, a machine. Machine Sleep would then be a tool in the arsenal of what tends to be called Machine Learning.
+Naturally, since we do not grasp the fundamental nature of learning, memory, intelligence, [wisdom](https://github.com/caveljan/artificial-wisdom), or sleep, we ought to try to (re)produce these mechanisms in a controlled entity, a machine. Machine Sleeping would then be a tool in the arsenal of what tends to be called Machine Learning.
 
 [1] 2019, Hans-Peter Landolt et al., Sleep-Wake Neurobiology and Pharmacology, Springer, p. 6;
 
