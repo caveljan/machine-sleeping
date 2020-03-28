@@ -37,3 +37,22 @@ the machine sleeps after either:
 What kind of mechanism is the de-eventing? What kind of equations does it handle?
 
 How is the context of the events re-membered: formed from the other events? To store somekind of meta-events? To have a mechanism for a remembering of a remembrance? Dreaming would then become a sort of chaining of de-eventings.
+
+What kind of data structures are used?
+
+    life_events = {
+        current_day: event[]
+        last_days: day[]
+    }
+
+    day = {
+        events: event[]
+        metadata: {
+            day_start: number
+        }
+    }
+
+    event = {
+        cost: number
+        action: string identifier?
+    }

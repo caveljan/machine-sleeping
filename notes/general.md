@@ -5,4 +5,7 @@ A machine Circadian Rhythm will necessarily be lesser than 24 hours (hence why a
 The 'Day' part of the Rhythm will consist in `spend`ing the Daily Energy Budget (`DEB`) while the 'Night' part will consist in `replenish`ing the budget. When `spend`ing, a history of the spending actions is created, memories-like. When `replenish`ing the memories are enforced (through some mechanism to be determined).
 
 
-A `Compute Entity` has a `Daily Energy Budget` and is in a current phase of the `Circament Rhythm`
+A `Compute Entity` has a `Daily Energy Budget` and is in a current phase of the `Circament Rhythm`.
+
+
+The phase locator is a fuzzy identifier with 4 states: falling asleep, sleeping, waking up, awake.
