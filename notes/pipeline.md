@@ -17,7 +17,7 @@ the image has 2 features (x's)
     |000000x0|
     |--------|
 
-the day starts with 952 debs (if the first day, then it's a random number between 300 and 1000, for the other days the debs is computed based on the debs of the previous days)
+the day starts with 952 debs (if the first day, it's a random number between 300 and 1000, for the other days the debs is computed based on the debs of the previous days)
 
 the first feature is easier to extract than the second figure: 452 debs for the first, 260 for the second
 
