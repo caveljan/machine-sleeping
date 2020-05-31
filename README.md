@@ -17,7 +17,7 @@
 >
 > For in that sleep of death what dreams may come
 >
-> — Macbeth, Act III, Scene I
+> — Hamlet, Act III, Scene I
 
 <br />
 
